@@ -1,5 +1,5 @@
 # Crawler-For-Coworking-Spaces
-This script is a crawler for coworker.com coworking spaces
+This script is a crawler for coworking spaces. Especially this scripts takes the inofficialy the website as a source. Only use for testing purposes and at your own risk.
 
 ## Getting started
 
